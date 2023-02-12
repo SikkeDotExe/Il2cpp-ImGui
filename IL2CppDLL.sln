@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IL2CppDLL", "IL2CppDLL.vcxproj", "{e99dcb6b-6fc2-4342-b736-39224aa005f4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{e99dcb6b-6fc2-4342-b736-39224aa005f4}.Debug|x64.ActiveCfg = Debug|x64
+		{e99dcb6b-6fc2-4342-b736-39224aa005f4}.Debug|x64.Build.0 = Debug|x64
+		{e99dcb6b-6fc2-4342-b736-39224aa005f4}.Debug|x86.ActiveCfg = Debug|Win32
+		{e99dcb6b-6fc2-4342-b736-39224aa005f4}.Debug|x86.Build.0 = Debug|Win32
+		{e99dcb6b-6fc2-4342-b736-39224aa005f4}.Release|x64.ActiveCfg = Release|x64
+		{e99dcb6b-6fc2-4342-b736-39224aa005f4}.Release|x64.Build.0 = Release|x64
+		{e99dcb6b-6fc2-4342-b736-39224aa005f4}.Release|x86.ActiveCfg = Release|Win32
+		{e99dcb6b-6fc2-4342-b736-39224aa005f4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34a7b6e6-31d0-448d-9c8a-3075eb02dac6}
+	EndGlobalSection
+EndGlobal
